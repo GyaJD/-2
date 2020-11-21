@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Texturina:wght@100&display=swap');
+
+ul{
+    padding: 0;
+}
+
+li{
+    display: inline;
+    margin: 0 50px;
+}
+
+a{
+    text-decoration: none;
+    font-size: 22px;
+}
+
+body{
+    font-family: 'Texturina', serif;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+}
+
+img{
+    width: 100%;
+    border-radius: 50%;
+}
